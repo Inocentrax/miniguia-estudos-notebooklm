@@ -39,7 +39,7 @@ A estrutura do projeto foi construída utilizando o NotebookLM, onde são inseri
 - Desenvolver análises mais estruturadas
 - Simular o raciocínio de especialistas
   
-# 🧩 Aplicações
+#  Aplicações
 
 Este projeto pode ser utilizado para:
 
@@ -50,13 +50,13 @@ Construção de projetos analíticos,
 Tomada de decisão baseada em evidências.
 
 
-## 📚 Base de Conhecimento — Segunda Mente (Fei-Fei Li)
+##  Base de Conhecimento — Segunda Mente (Fei-Fei Li)
 
 Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente”, composta por artigos, pesquisas, vídeos e materiais institucionais que refletem o pensamento de Fei-Fei Li e temas relacionados à Inteligência Artificial centrada no ser humano.
 
 ---
 
-### 🧠 Inteligência Artificial e Ética
+###  Inteligência Artificial e Ética
 
 * **A Framework for Responsible AI Systems**
   - Aborda diretrizes para construção de sistemas de IA responsáveis, focando em ética, transparência e impacto social.
@@ -69,7 +69,7 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
 
 ---
 
-### 👁️ Visão Computacional e ImageNet
+###  Visão Computacional e ImageNet
 
 * **Fei-Fei Li and ImageNet**
   - Explica o impacto do ImageNet no avanço da visão computacional e no treinamento de modelos de IA.
@@ -85,7 +85,7 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
 
 ---
 
-### 🌍 Spatial Intelligence (Nova Fronteira da IA)
+###  Spatial Intelligence (Nova Fronteira da IA)
 
 * **Spatial Intelligence is the Next Frontier of AI**
   - Explora o conceito de IA capaz de compreender o mundo físico em três dimensões.
@@ -98,7 +98,7 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
 
 ---
 
-### 🏥 IA aplicada à sociedade
+###  IA aplicada à sociedade
 
 * **Smarter Hospitals: AI in Healthcare**
   Uso da IA para melhorar sistemas hospitalares e atendimento médico.
@@ -111,7 +111,7 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
 
 ---
 
-### 🎓 Instituições e Pesquisa
+###  Instituições e Pesquisa
 
 * **Stanford HAI (Human-Centered AI Institute)**
   Centro focado no desenvolvimento de IA centrada no ser humano.
@@ -124,7 +124,7 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
 
 ---
 
-### 🎥 Conteúdo em Vídeo
+###  Conteúdo em Vídeo
 
 * **Dr. Fei-Fei Li — The Godmother of AI**
   - Apresentação sobre sua trajetória e impacto na área.
@@ -137,7 +137,7 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
 
 ---
 
-### 📖 Leituras e Reflexões
+###  Leituras e Reflexões
 
 * **The Worlds I See (Book Review)**
   Reflexões sobre a jornada pessoal e profissional de Fei-Fei Li.
@@ -147,7 +147,7 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
 
 ---
 
-### 🌐 Outros Materiais
+###  Outros Materiais
 
 * **World Labs**
   - Organização voltada para avanços em inteligência artificial.
