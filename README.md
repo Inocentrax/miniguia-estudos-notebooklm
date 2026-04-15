@@ -32,7 +32,7 @@ A estrutura do projeto foi construída utilizando o NotebookLM, onde são inseri
 - Vídeos do YouTube com especialistas
 - Conteúdos técnicos e educacionais
 
-# 🎯 Objetivo
+#  Objetivo
 
 - Pensar com mais clareza
 - Evitar vieses superficiais
