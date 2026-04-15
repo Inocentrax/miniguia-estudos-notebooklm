@@ -1,4 +1,4 @@
-# 🧠 Contexto
+# Contexto
 
 - Durante o desenvolvimento deste projeto, surgiu uma reflexão importante sobre um dos principais gargalos na aplicação prática de Inteligência Artificial nas empresas.
 
