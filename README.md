@@ -156,5 +156,9 @@ Esta seção reúne os conteúdos utilizados para estruturar a “segunda mente�
   - Conteúdo relacionado à segurança e infraestrutura na web.
 
 ---
+<img width="372" height="635" alt="image" src="https://github.com/user-attachments/assets/62c83584-0391-4e41-bd9a-845d4eb17670" />
+<img width="383" height="643" alt="image" src="https://github.com/user-attachments/assets/e646701d-510a-4f41-ab78-75380338aefa" />
+<img width="385" height="647" alt="image" src="https://github.com/user-attachments/assets/4d05a6dd-05b6-464c-8488-e7174d155d31" />
+<img width="376" height="592" alt="image" src="https://github.com/user-attachments/assets/2e889791-51f2-46a0-ab2d-bd4a1e0765ee" />
 
 
