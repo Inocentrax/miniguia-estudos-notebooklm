@@ -1,4 +1,4 @@
-# Miniguia-Estudos-NotebookLm
+# Miniguia-Estudos-NotebookLM
 # Second Mind AI - Inspirado em Fei-Fei Li
 
 Este projeto nasceu com o objetivo de criar uma “segunda mente” digital, um sistema de apoio ao pensamento, análise e tomada de decisão, inspirado na forma de raciocínio de especialistas em Inteligência Artificial, como Fei-Fei Li.
